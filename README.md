@@ -1,2 +1,16 @@
 # Problem-Solving-LeetCode
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+This repository contains my solutions to Data Structures and Algorithms problems.
+
+## Topics
+
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy
+- Backtracking
+
+I solve problems primarily in C/C++, Java, and Python.
