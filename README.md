@@ -25,6 +25,7 @@ I solve problems primarily in C/C++, Java, and Python.
 | [0035-search-insert-position](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
@@ -50,4 +51,8 @@ I solve problems primarily in C/C++, Java, and Python.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
