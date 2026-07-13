@@ -28,6 +28,7 @@ I solve problems primarily in C/C++, Java, and Python.
 | [0136-single-number](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0283-move-zeroes) |
+| [2951-find-the-peaks](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/2951-find-the-peaks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +56,8 @@ I solve problems primarily in C/C++, Java, and Python.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
