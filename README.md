@@ -27,6 +27,7 @@ I solve problems primarily in C/C++, Java, and Python.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0283-move-zeroes) |
 | [2951-find-the-peaks](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/2951-find-the-peaks) |
@@ -38,6 +39,7 @@ I solve problems primarily in C/C++, Java, and Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +64,20 @@ I solve problems primarily in C/C++, Java, and Python.
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/2951-find-the-peaks) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
