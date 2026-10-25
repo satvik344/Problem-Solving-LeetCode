@@ -42,6 +42,7 @@ I solve problems primarily in C/C++, Java, and Python.
 | [0001-two-sum](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ I solve problems primarily in C/C++, Java, and Python.
 | ------- |
 | [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -83,4 +85,8 @@ I solve problems primarily in C/C++, Java, and Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/satvik344/Problem-Solving-LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
